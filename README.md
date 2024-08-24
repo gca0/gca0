@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gca0, a junior at Princeton University.
+- 👋 Hi, I’m @gca0, a senior at Princeton University.
 - 📫 Feel free to reach out: guanyi.cao@princeton.edu
 
 <!---
